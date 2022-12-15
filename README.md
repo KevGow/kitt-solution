@@ -1,6 +1,6 @@
 # kitt-solution
 
-## Instalation 
+## Installation 
 To install, simply clone this repository to to a directory of choice. GoLang will need to be installed if it is not already, see https://go.dev/doc/install. Once cloned, the code can be built by executing the following code in the instalation directory:
 
 `go install kitt-solution`
